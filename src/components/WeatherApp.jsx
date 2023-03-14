@@ -4,7 +4,6 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faSun, faCloud, faBolt, faSnowflake, faCloudRain } from '@fortawesome/free-solid-svg-icons';
 import CitySearch from './CitySearch';
 import Loader from './Loader';
-import './styles.css';
 
 /*getWeatherData*/
 const  REACT_APP_OPENWEATHERMAP_API_KEY =`1dcb539e8ffcf8b85ce525469a013a50`;
